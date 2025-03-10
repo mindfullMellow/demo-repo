@@ -1,6 +1,6 @@
 # DEMO
 
-Some discription!
+Just checking for commits 
 
 
 This file was created during my first Github tutorial 
